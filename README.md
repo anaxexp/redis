@@ -1,20 +1,20 @@
 # Redis Docker Container Image
 
 [![Build Status](https://travis-ci.org/anaxexp/redis.svg?branch=master)](https://travis-ci.org/anaxexp/redis)
-[![Docker Pulls](https://img.shields.io/docker/pulls/anaxexperience/redis.svg)](https://hub.docker.com/r/anaxexperience/redis)
-[![Docker Stars](https://img.shields.io/docker/stars/anaxexperience/redis.svg)](https://hub.docker.com/r/anaxexperience/redis)
-[![Docker Layers](https://images.microbadger.com/badges/image/anaxexperienceredis.svg)](https://microbadger.com/images/anaxexperience/redis)
+[![Docker Pulls](https://img.shields.io/docker/pulls/anaxexp/redis.svg)](https://hub.docker.com/r/anaxexp/redis)
+[![Docker Stars](https://img.shields.io/docker/stars/anaxexp/redis.svg)](https://hub.docker.com/r/anaxexp/redis)
+[![Docker Layers](https://images.microbadger.com/badges/image/anaxexp/redis.svg)](https://microbadger.com/images/anaxexp/redis)
 
 ## Docker Images
 
-❗For better reliability we release images with stability tags (`anaxexperience/redis:4-X.X.X`) which correspond to [git tags](https://github.com/anaxexp/redis/releases). We strongly recommend using images only with stability tags. 
+❗For better reliability we release images with stability tags (`anaxexp/redis:4-X.X.X`) which correspond to [git tags](https://github.com/anaxexp/redis/releases). We strongly recommend using images only with stability tags. 
 
 Overview:
 
 * All images are based on Alpine Linux
 * Base image: [_/redis](https://hub.docker.com/r/_/redis)
 * [Travis CI builds](https://travis-ci.org/anaxexp/redis) 
-* [Docker Hub](https://hub.docker.com/r/anaxexperience/redis)
+* [Docker Hub](https://hub.docker.com/r/anaxexp/redis)
 
 [_(Dockerfile)_]: https://github.com/anaxexp/redis/tree/master/Dockerfile
 
