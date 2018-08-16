@@ -25,7 +25,7 @@ build:
 		./
 
 test:
-	IMAGE=$(REPO):$(TAG) NAME=$(NAME) ./test.sh
+	IMAGE=$(REPO):$(TAG) NAME=$(NAME) ./tests/run.sh
 
 push:
 	docker push $(REPO):$(TAG)
