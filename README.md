@@ -69,5 +69,5 @@ default params values:
 
 ## Deployment
 
-Deploy Redis to your server via [![Wodby](https://www.google.com/s2/favicons?domain=anaxexp.io) Wodby](https://cloud.anaxexp.io/stackhub/7548eb5a-c61b-4480-9f36-2501917692b3).
+Deploy Redis to your server via [![AnaxExp](https://www.google.com/s2/favicons?domain=anaxexp.io) AnaxExp](https://cloud.anaxexp.io/stackhub/7548eb5a-c61b-4480-9f36-2501917692b3).
 
